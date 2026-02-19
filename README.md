@@ -1,1 +1,3 @@
-# como-comprar-tezos-xtz
+[**Cómo comprar Tezos (XTZ)**](https://topcryptoguide.com/como-comprar-tezos-xtz/)
+
+Este artículo suele explicar **cómo comprar la criptomoneda Tezos (XTZ)**, que es el token nativo de la red blockchain de Tezos, famosa por permitir actualizaciones sin **hard forks** y gobernanza on-chain. Para comprar XTZ normalmente se **abre una cuenta en un exchange fiable** que lo liste (como Binance, Kraken, KuCoin o Coinbase), se **verifica la identidad**, se depositan fondos con tarjeta, transferencia o stablecoins, y luego se ejecuta la compra del token. Otra opción es usar **plataformas que permiten compra directa con tarjeta o Apple/Google Pay** para recibir XTZ en tu wallet. Después de la compra, muchos recomiendan mover los tokens a un **wallet seguro** para mayor control de tus claves privadas. :contentReference[oaicite:0]{index=0}
